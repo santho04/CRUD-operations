@@ -16,11 +16,9 @@ You’ll find code to:
 
 - **Language**: Java 17
 - **Tools**:
-  - [IntelliJ IDEA](https://www.jetbrains.com/idea/) / Eclipse (any IDE works)
-  - [Apache HttpClient](https://hc.apache.org/httpcomponents-client-5.1.x/) for making HTTP requests
-  - [Jackson](https://github.com/FasterXML/jackson) for JSON parsing
-  - Maven (for dependency management)
-  - Git & GitHub for version control
+- Java
+- Native `HttpURLConnection`
+- JSON handling with basic string ops (no external libraries)
 
 ---
 
