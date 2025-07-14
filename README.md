@@ -34,10 +34,12 @@ You’ll find code to:
    Add a config.properties file inside src/main/resources/:
 
    api.token=your_api_token_here
+   
    user.id=your_user_id_here
+   
    base.url=https://apihub.document360.io/v2/Drive/Folders
 
-3. **compile and run the assesment.java** 
+4. **compile and run the assesment.java** 
    
    -javac assesment.java
    
