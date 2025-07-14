@@ -26,8 +26,8 @@ You’ll find code to:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/document360-java-api-task.git
-   cd document360-java-api-task
+   git clone https://github.com/santho04/CRUD-operations.git
+   cd kovai.co
 
 2. **configure your api-token**  
 
