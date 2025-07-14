@@ -40,4 +40,5 @@ You’ll find code to:
 3. **compile and run the assesment.java** 
    
    -javac assesment.java
+   
    -java assesment.java
